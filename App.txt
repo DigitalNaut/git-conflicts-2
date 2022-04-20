@@ -1,1 +1,2 @@
 Bienvenido a mi nueva App!
+Componente A
